@@ -1,0 +1,2 @@
+rootProject.name = "Accident_Detection"
+include ':app'

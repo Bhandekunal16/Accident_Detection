@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "com.example.accidentdetection.app-merged_res-40:/layout_activity_main_screen.xml.flat",
+        "source": "com.example.accidentdetection.app-main-41:/layout/activity_main_screen.xml"
+    },
+    {
+        "merged": "com.example.accidentdetection.app-merged_res-40:/layout_activity_reset_password.xml.flat",
+        "source": "com.example.accidentdetection.app-main-41:/layout/activity_reset_password.xml"
+    },
+    {
+        "merged": "com.example.accidentdetection.app-merged_res-40:/layout_fragment_video.xml.flat",
+        "source": "com.example.accidentdetection.app-main-41:/layout/fragment_video.xml"
+    },
+    {
+        "merged": "com.example.accidentdetection.app-merged_res-40:/drawable_ic_visibility.xml.flat",
+        "source": "com.example.accidentdetection.app-main-41:/drawable/ic_visibility.xml"
+    },
+    {
+        "merged": "com.example.accidentdetection.app-merged_res-40:/drawable_ic_visibility_off.xml.flat",
+        "source": "com.example.accidentdetection.app-main-41:/drawable/ic_visibility_off.xml"
+    },
+    {
+        "merged": "com.example.accidentdetection.app-merged_res-40:/layout_fragment_contact.xml.flat",
+        "source": "com.example.accidentdetection.app-main-41:/layout/fragment_contact.xml"
+    },
+    {
+        "merged": "com.example.accidentdetection.app-merged_res-40:/menu_drawer_menu.xml.flat",
+        "source": "com.example.accidentdetection.app-main-41:/menu/drawer_menu.xml"
+    },
+    {
+        "merged": "com.example.accidentdetection.app-merged_res-40:/layout_contact_item.xml.flat",
+        "source": "com.example.accidentdetection.app-main-41:/layout/contact_item.xml"
+    },
+    {
+        "merged": "com.example.accidentdetection.app-merged_res-40:/layout_activity_register.xml.flat",
+        "source": "com.example.accidentdetection.app-main-41:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.accidentdetection.app-merged_res-40:/layout_activity_login.xml.flat",
+        "source": "com.example.accidentdetection.app-main-41:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.accidentdetection.app-merged_res-40:/layout_place_item.xml.flat",
+        "source": "com.example.accidentdetection.app-main-41:/layout/place_item.xml"
+    },
+    {
+        "merged": "com.example.accidentdetection.app-merged_res-40:/layout_fragment_home.xml.flat",
+        "source": "com.example.accidentdetection.app-main-41:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.accidentdetection.app-merged_res-40:/layout_nav_header_main.xml.flat",
+        "source": "com.example.accidentdetection.app-main-41:/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "com.example.accidentdetection.app-merged_res-40:/layout_fragment_sos.xml.flat",
+        "source": "com.example.accidentdetection.app-main-41:/layout/fragment_sos.xml"
+    }
+]

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.2.2" type="partial_results">
+    <map id="UnsafeIntentLaunch">
+            <map id="unprotected">
+                <entry
+                    name="com.example.accidentdetection.LoginActivity"
+                    boolean="true"/>
+            </map>
+    </map>
+    <map id="UnusedResources">
+        <location id="R.string.app_name"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/strings.xml"
+            line="2"
+            column="13"
+            startOffset="24"
+            endLine="2"
+            endColumn="28"
+            endOffset="39"/>
+        <location id="R.string.google_maps_key"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/google_maps_api.xml"
+            line="2"
+            column="13"
+            startOffset="24"
+            endLine="2"
+            endColumn="35"
+            endOffset="46"/>
+        <location id="R.color.white"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/colors.xml"
+            line="6"
+            column="12"
+            startOffset="191"
+            endLine="6"
+            endColumn="24"
+            endOffset="203"/>
+        <location id="R.color.lightblue"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/colors.xml"
+            line="7"
+            column="12"
+            startOffset="231"
+            endLine="7"
+            endColumn="28"
+            endOffset="247"/>
+        <location id="R.color.accent"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/colors.xml"
+            line="5"
+            column="12"
+            startOffset="150"
+            endLine="5"
+            endColumn="25"
+            endOffset="163"/>
+        <entry
+            name="model"
+            string="attr[actionBarSize(R)],color[accent(D),white(D),lightblue(D),primaryDark(D),primary(D)],drawable[ic_visibility(U),ic_visibility_off(U)],id[btnSafe(U),login_button(U),nav_contacts(U),numberText(U),imageView(U),nav_view(U),title(U),login(U),SignUp_tv(U),email_box(U),progress_button_bg(D),nav_aboutapp(U),password(U),simpleWebView(U),nav_aboutdeveloper(U),nav_privacy(U),drawer_layout(U),email(U),buttonText(U),pass_box(U),txtforgetemail(U),nav_sos(U),btnSosNow(U),buttonProgress(U),sendLocationBtn(U),nav_logout(U),recyclerViewContacts(U),usermail(U),nameText(U),mapFragment(U),recyclerPlaces(U),deleteBtn(U),toolbar(U),fabAddContact(U),placeType(U),forgotpass_tv(U),repassword(U),resetbtn(U),phone(U),nav_chat(U),fragment_container(U),name(U),nav_profiles(U),nav_video(U),placeName(U),nav_home(U),username(U)],layout[activity_reset_password(U),fragment_home(U),place_item(U),activity_main_screen(U),activity_login(U),contact_item(U),activity_register(U),fragment_contact(U),nav_header_main(U),fragment_video(U),fragment_sos(U)],menu[drawer_menu(U)],string[navigation_drawer_open(U),google_maps_key(D),app_name(D),navigation_drawer_close(U)],style[Theme_AppCompat_Light_NoActionBar(R)];3a^0^3f^42,3b^e^7^11^1b^9^10,3d^7,3e^20,3f^7;;;"/>
+        <location id="R.color.primaryDark"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/colors.xml"
+            line="4"
+            column="12"
+            startOffset="104"
+            endLine="4"
+            endColumn="30"
+            endOffset="122"/>
+        <location id="R.color.primary"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/colors.xml"
+            line="3"
+            column="12"
+            startOffset="62"
+            endLine="3"
+            endColumn="26"
+            endOffset="76"/>
+    </map>
+
+</incidents>

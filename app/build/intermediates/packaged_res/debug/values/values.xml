@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#FF5252</color>
+    <color name="lightblue">#03A9F4</color>
+    <color name="primary">#1976D2</color>
+    <color name="primaryDark">#0D47A1</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Accident Detection</string>
+    <string name="gcm_defaultSenderId" translatable="false">680904537695</string>
+    <string name="google_api_key" translatable="false">AIzaSyBx6sRwETYzAtu4uSq7j9RO168ELMu0gnU</string>
+    <string name="google_app_id" translatable="false">1:680904537695:android:d49910ad8c9e4076b88dea</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBx6sRwETYzAtu4uSq7j9RO168ELMu0gnU</string>
+    <string name="google_maps_key"> AQ.Ab8RN6INVj0eBdpzuyoDHo4i4TWn9b-qktS00VaryAyeoQI1-w </string>
+    <string name="google_storage_bucket" translatable="false">accidentdetection-cd2ed.firebasestorage.app</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="project_id" translatable="false">accidentdetection-cd2ed</string>
+</resources>

@@ -1,0 +1,7 @@
+#Thu Feb 19 17:31:20 IST 2026
+base.1=/home/kunalbhande/Desktop/kunal/java/Accident_Detection2fixedV1/Accident_Detection/app/build/intermediates/dex/release/mergeDexRelease/classes2.dex
+path.1=classes2.dex
+base.0=/home/kunalbhande/Desktop/kunal/java/Accident_Detection2fixedV1/Accident_Detection/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

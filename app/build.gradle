@@ -1,0 +1,40 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace "com.example.accidentdetection"
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "com.example.accidentdetection"
+        minSdk 21
+        targetSdk 34
+        versionCode 1
+        versionName "1.0"
+    }
+}
+
+dependencies {
+
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'com.google.android.material:material:1.11.0'
+
+    // Firebase BOM (recommended way)
+    implementation platform('com.google.firebase:firebase-bom:32.7.0')
+
+    implementation 'com.google.firebase:firebase-auth'
+    implementation 'com.google.firebase:firebase-database'
+
+    // Google Maps
+    implementation 'com.google.android.gms:play-services-maps:18.2.0'
+    implementation 'com.google.android.gms:play-services-location:21.0.1'
+
+    // Circle Image View
+    implementation 'de.hdodenhof:circleimageview:3.1.0'
+
+    // Dynamic Toast
+    implementation 'com.pranavpandey.android:dynamic-toasts:4.1.0'
+}
+
+apply plugin: 'com.google.gms.google-services'

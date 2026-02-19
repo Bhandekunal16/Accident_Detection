@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_home" android:title="Home" />
+    <item android:id="@+id/nav_contacts" android:title="Contacts" />
+    <item android:id="@+id/nav_video" android:title="Video Guide" />
+    <item android:id="@+id/nav_chat" android:title="AI Assistant" />
+    <item android:id="@+id/nav_profiles" android:title="Profile" />
+    <item android:id="@+id/nav_sos" android:title="SOS" />
+    <item android:id="@+id/nav_privacy" android:title="Privacy Policy" />
+    <item android:id="@+id/nav_aboutapp" android:title="About App" />
+    <item android:id="@+id/nav_aboutdeveloper" android:title="About Developer" />
+    <item android:id="@+id/nav_logout" android:title="Logout" />
+
+</menu>

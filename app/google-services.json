@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "680904537695",
+    "project_id": "accidentdetection-cd2ed",
+    "storage_bucket": "accidentdetection-cd2ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680904537695:android:d49910ad8c9e4076b88dea",
+        "android_client_info": {
+          "package_name": "com.example.accidentdetection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx6sRwETYzAtu4uSq7j9RO168ELMu0gnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
